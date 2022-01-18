@@ -15,8 +15,8 @@ try {
     $mail->isSMTP();                                            // Utilisation du SMTP
     $mail->Host       = 'smtp.gmail.com';                       // Specification du serveur SMTP à utiliser
     $mail->SMTPAuth   = true;                                   // Activer l'authentification SMTP
-    $mail->Username   = 'no.reply.huissier@gmail.com';                     // Username du compte mail
-    $mail->Password   = 'Cl3mFr3dQu3nt1n';                               // Password du compte mail
+    $mail->Username   = '';                     // Username du compte mail
+    $mail->Password   = '';                               // Password du compte mail
     $mail->SMTPSecure = 'tls';                                  // Activation du chiffrement TLS. Le SSL est aussi disponible
     $mail->Port       = 587;                                    // Port TCP de notre serveur SMTP (Google : 587)
 
