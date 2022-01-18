@@ -1,0 +1,65 @@
+*{box-sizing: border-box; font-family: "Nunito";}
+
+@font-face {
+	font-family: "Nunito";
+	src: url('../font/Nunito-Regular.ttf') format('truetype');
+}
+
+.space{
+  padding: 5px;
+}
+
+header{
+  background-color: #A54208;
+  /* height: 60px; */
+}
+
+body{
+  position: relative;
+  min-height: 100%;
+  margin: 0;
+  padding-bottom: 5em;
+}
+
+.dropdown{
+	width: 185px;
+	text-align: center;
+}
+
+#navbarNavDropdown{
+	position: relative;
+	z-index: 1;
+	background-color: #A54208;
+}
+
+#navbarNavDropdown > ul > li:hover{
+	background-color: #913905;
+	transition: 0.5s;
+}
+
+.dropdown-menu{
+	background-color: #A54208;
+	padding: 0px;
+	width: 185px;
+}
+
+.navbar{
+	width: 217px;
+}
+
+.dropdown-menu > a{
+	text-align: center;
+}
+.dropdown-menu > a:hover{
+	background-color: #913905;
+	transition: 0.5s;
+}
+
+#navbarDropdownMenuUser{
+	height: 46px;
+	padding-left: 12px;
+}
+
+#index_row{
+	width: 100%;
+}

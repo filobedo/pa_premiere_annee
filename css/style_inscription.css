@@ -1,0 +1,67 @@
+#register_form{
+  background-color: #dbdbdb;
+  width: 700px;
+  height: 650px;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 130px;
+  padding-bottom: 20px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 10px #212529;
+}
+
+#create_account_title{
+  margin-bottom: 30px;
+  height: 60px;
+  padding-top: 12px;
+  background-color: #A54208;
+  border-radius: 10px 10px 0px 0px ;
+}
+
+#gender_radio_input_woman{
+  margin-right: 35px;
+}
+
+#register_input_row{
+  margin: 0px;
+  width: 500px;
+}
+
+.display_input_inline_block > input{
+  display: inline-block;
+  width: 247.5px;
+}
+
+#register_align{
+  width: 500px;
+}
+
+#div_radio_input{
+  margin-right: 0px;
+  margin-bottom: 16px;
+}
+
+#address_num_input{
+  width: 100px;
+}
+
+#address_input{
+  width: 395px;
+}
+
+#address_and_num_div > input{
+  display: inline-block;
+}
+
+.input_247px{
+  width: 247.5px;
+}
+
+#captcha_verif_input{
+  display: inline-block;
+  width: 203.5px;
+}
+
+#capcha_verif_div{
+  text-align: left;
+}

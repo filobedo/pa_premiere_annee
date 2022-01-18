@@ -1,0 +1,16 @@
+#rdv_validation_title{
+  background-color: #A54208;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 8px;
+}
+
+#form_elegant_rdv_validation{
+  height: 510px;
+}
+
+.validation_form > p, .validation_form{
+  text-align: center;
+}

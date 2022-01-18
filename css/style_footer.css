@@ -1,0 +1,12 @@
+html{
+  height: 100%;
+}
+
+footer{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: #A54208;
+  margin-top: 30px;
+}

@@ -1,0 +1,35 @@
+
+@font-face {
+	font-family: "Nunito";
+	src: url('../font/Nunito-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: "Nunito-light";
+	src: url('../font/Nunito-Light.ttf') format('truetype');
+}
+
+#accueil_banner{
+  background-image: url('../image/accueil_img.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+
+ #right_side{
+  margin-bottom: 30px;
+
+}
+
+
+#image{
+  margin-top : 20px;
+  height: 300px;
+  border-radius: 8px;
+  box-shadow: 2px 3px 2px #1F1510;
+}
+
+p{
+  text-align: justify;
+}

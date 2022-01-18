@@ -1,0 +1,42 @@
+
+h3{
+	text-align: center;
+}
+
+.left_side{
+	padding-left:1%;
+}
+
+.right_side{
+	padding-left:1%;
+}
+
+#pres_start{
+	margin-top:2em;
+}
+
+#pres_start > section > img{
+	height:700px;
+	padding:0.5em;
+}
+
+
+#pres_middle{
+	margin-top:5em;
+}
+
+#pres_middle > section > img{
+	margin-top:50px;
+	width:100%;
+}
+
+
+#pres_end{
+	margin-top:5em;
+}
+
+#pres_end > section > img{
+	margin-top:40px;
+	width:110%;
+
+}

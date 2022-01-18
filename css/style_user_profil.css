@@ -1,0 +1,37 @@
+#user_profil_form{
+  background-color: #dbdbdb;
+  width: 700px;
+  height: 650px;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 130px;
+  padding-bottom: 20px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 10px #212529;
+}
+
+.user_profil_input_row{
+  margin: 0px;
+  width: 500px;
+}
+
+.user_profil_align{
+  width: 500px;
+}
+
+.display_input_inline_block > input{
+  display: inline-block;
+  width: 247.5px;
+}
+
+#user_profil_address_and_num_div > input{
+  display: inline-block;
+}
+
+#user_profil_address_num_input{
+  width: 100px;
+}
+
+#user_profil_address_input{
+  width: 395px;
+}
